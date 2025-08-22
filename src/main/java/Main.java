@@ -29,6 +29,7 @@ public class Main {
     }
     */
 
+    /*
     int a = 10;
     String b = "";
     while (a > 0) {
@@ -37,5 +38,10 @@ public class Main {
       // b = b.concat("*");
       System.out.println(b);
     }
+    */
+
+    String name = "Tony Stark";
+    name = "Stark";
+    System.out.println(name);
   }
 }
