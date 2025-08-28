@@ -1,4 +1,4 @@
-public class AdvancePatterns {
+public class PatternsAdv {
   public static void main(String[] args) {
     
     int columns = 4;
